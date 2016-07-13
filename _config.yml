@@ -1,0 +1,14 @@
+layout_spectrum: 0.997952704783529
+typography_spectrum: 0.9455942311324179
+color:
+  brandStrength: 0.21101017971523106
+  lightness: 0.5637466956395656
+  saturation: 0.21743934252299368
+  rhythmicContrast: 0.5576318090315908
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: nonterritorial
